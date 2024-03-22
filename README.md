@@ -39,4 +39,4 @@ Contributions to improve the database schema, optimize query performance, enhanc
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/Apiljungthapa/Comprehensive-Database-System-for-E-Commerce-Platform-Selling-Laptops-and-Gadgets/blob/master/LICENSE).
